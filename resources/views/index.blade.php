@@ -338,23 +338,11 @@
 <section id="contact">
     <div class="container wow fadeIn">
         <div class="row">
-            <div class="col-md-5">
+            <div class="col-md-12 text-center">
                 <h2 class="headerline">Contact Us</h2>
-                <p>Feel free to contact us with any questions or to apply for our action fund. Please provide the information listed here to ensure we have all the information required to </p>
+                <p>Feel free to contact us with any questions or to apply for our action fund.</p>
                 <h4><a href="mailto:kingdomacceleration88@gmail.com"><i class="fa fa-envelope fa-fw"></i> kingdomacceleration88@gmail.com</a></h4>
-            </div>
-            <div class="col-md-5 col-md-offset-2">
-                <p id="copy">
-                    Action Fund Application Information<br>
-                    Project Name:<br>
-                    Project Date:<br>
-                    Project Type:<br>
-                    Heard about from:<br>
-                    Product Description:  Explain details: (how the money will be used)<br>
-                    Project causes:<br>
-                    Church or organization:  if applicable<br>
-                </p>
-                <button onclick="copyIt()">Copy Form Information</button>
+                <a class="text-center btn btn-primary btn-lg " href="https://forms.gle/NUTWUWMSMAzEjUyV7"> Apply for Our Action Fund Here!</a>
             </div>
         </div>
     </div>
@@ -405,6 +393,13 @@
         , "storage/cover2.jpg"
         , "storage/cover3.jpg"
         , "storage/cover4.jpg"
+        , "storage/cover5.jpg"
+        , "storage/cover6.jpg"
+        , "storage/cover7.jpg"
+        , "storage/cover8.jpg"
+        , "storage/cover9.jpg"
+        , "storage/cover10.jpg"
+        , "storage/cover11.jpg"
     ], {duration: 4000, fade: 1000, centeredX:true, centeredY:true});
     function copyIt() {
         /* Copy the text inside the text field */
