@@ -97,7 +97,7 @@
 
         </div>
         <div class="col-sm-6 split-padding3">
-            <h2 class="headerline">Our Itinerary</h2>
+            <h2 class="headerline">Our Purpose</h2>
             <p>Kingdom Acceleration Ministries purpose is to provide education by giving lectures, leadership classes in libraries, and other public venues, as well as, utilizing social media channels to provide classes, lectures, facts, statistics, and other informational efforts and solutions to eradicate social issues in community and region, and to distribute the personal need of hygiene line of products, household cleaning materials, and clothing to those in need.</p>
             <p>“Your kingdom come Your will be done on earth as it is in heaven.”
                 Matthew 6:10 (NKJV)
@@ -111,8 +111,8 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-center">
-                <h2 class="headerline">Our Project</h2>
-                <h4>Kingdom Acceleration is an outreach that is devoted to rooting out social issues.  We are driven and committed to preserving human dignity by assisting in eradicating social and economic barriers in our community and across the nation.</h4>
+                <h2 class="headerline">Our Mission</h2>
+                <p>Kingdom Acceleration is an outreach that is devoted to rooting out social issues.  We are driven and committed to preserving human dignity by assisting in eradicating social and economic barriers in our community and across the nation.</p>
             </div>
         </div>
     </div>
@@ -275,7 +275,7 @@
         <h2 class="headerline">Our Vision</h2>
         <br>
         <div class="col-lg-12 col-md-12 col-sm-12">
-            <h4>To improve the welfare of our nation and abroad that are in physical and social need.  Our giving is to take on real and tangible forms as we reach out to individuals, churches, ministries, and community centers.  We believe that meeting the need and preserving human dignity will make a significant impact on the nation set a powerful example for the leader of tomorrow, the future generation.</h4>
+            <p>To improve the welfare of our nation and abroad that are in physical and social need.  Our giving is to take on real and tangible forms as we reach out to individuals, churches, ministries, and community centers.  We believe that meeting the need and preserving human dignity will make a significant impact on the nation set a powerful example for the leader of tomorrow, the future generation.</p>
         </div>
     </div>
 
@@ -341,7 +341,7 @@
             <div class="col-md-12 text-center">
                 <h2 class="headerline">Contact Us</h2>
                 <p>Feel free to contact us with any questions or to apply for our action fund.</p>
-                <h4><a href="mailto:kingdomacceleration88@gmail.com"><i class="fa fa-envelope fa-fw"></i> kingdomacceleration88@gmail.com</a></h4>
+                <p><a href="mailto:kingdomacceleration88@gmail.com"><i class="fa fa-envelope fa-fw"></i> kingdomacceleration88@gmail.com</a></p>
                 <a class="text-center btn btn-primary btn-lg " href="https://forms.gle/NUTWUWMSMAzEjUyV7"> Apply for Our Action Fund Here!</a>
             </div>
         </div>
