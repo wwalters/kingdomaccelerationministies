@@ -63,6 +63,9 @@
                     <a class="page-scroll" href="#about">WHO WE ARE</a>
                 </li>
                 <li>
+                    <a class="page-scroll" href="#events">Events</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#project">Our Project</a>
                 </li>
                 <li>
@@ -102,6 +105,71 @@
             <p>“Your kingdom come Your will be done on earth as it is in heaven.”
                 Matthew 6:10 (NKJV)
             </p>
+        </div>
+    </div>
+</section>
+
+<!-- Project Section -->
+<section id="events" class="head">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <h2 class="headerline">Events</h2>
+                <p>Click the title for more information!</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-4 text-center">
+                <a href="storage/flyer2.pdf"><h3>Deliverance Summit</h3></a>
+            </div>
+            <div class="col-xs-4 text-center">
+                <a href="storage/flyer4.pdf"><h3>Why Israel?</h3></a>
+            </div>
+            <div class="col-xs-4 text-center">
+                <a href="storage/flyer.pdf"><h3>Grow Empowerment Lounge</h3></a>
+            </div>
+            {{--<div class="col-xs-3 text-center">
+                <a href="storage/flyer5.pdf"><h3>Restoring the Alter</h3></a>
+
+            </div>--}}
+        </div>
+        <div class="row">
+            <div class="col-xs-4 text-center">
+                <p>March 22nd-25th, 2018</p>
+            </div>
+            <div class="col-xs-4 text-center">
+                <p>March 8th 2020</p>
+            </div>
+            <div class="col-xs-4 text-center">
+                <p>March 19th, 2020</p>
+            </div>
+            {{--<div class="col-xs-3 text-center">
+
+                <p>October 29th, 2021</p>
+            </div>--}}
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-xs-4 text-center">
+                <a href="storage/flyer3.pdf"><h3>Power Driven Prayer</h3></a>
+            </div>
+            <div class="col-xs-4 text-center">
+
+            </div>
+            <div class="col-xs-4 text-center">
+                <a href="storage/flyer5.pdf"><h3>Restoring the Alter</h3></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-4 text-center">
+                <p>January 15th 2021 </p>
+            </div>
+            <div class="col-xs-4 text-center">
+
+            </div>
+            <div class="col-xs-4 text-center">
+                <p>October 29th, 2021</p>
+            </div>
         </div>
     </div>
 </section>
