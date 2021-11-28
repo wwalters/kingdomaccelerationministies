@@ -96,14 +96,28 @@
     <div class="row">
         <div class="col-sm-6 split-padding3">
             <h2 class="headerline">Our Story</h2>
-            <p>The two of us were taught, as children, to help people who were in need, and to share; whether it be, food, shelter, or information on how to receive assistance.  Our parents always had a snack or a hot meal on the stove for neighborhood kids or total strangers who were in need all the time; there was never a problem in sharing with others.  Occasionally, people needed information on how receive help with shelter, food, clothing, etc. If someone had given our parents any type of information on how to receive assistance, they were happy to pass the information forward.  Helping others was part of our childhood upbringing.  We continue to govern our lives by Proverbs 19:17, which states, “He who has pity on the poor lends to the Lord, and He will pay back what he has given.” (NKJV)</p>
+            <p>The two of us were taught, as children, to help people who were in need, and to
+                share; whether it be, food, shelter, or information on how to receive assistance. Our
+                parents always had a snack or a hot meal on the stove for neighborhood kids or
+                total strangers who were in need all the time; there was never a problem in sharing
+                with others. Occasionally, people needed information on how to receive help with
+                shelter, food, clothing, etc. If someone had given our parents any type of
+                information on how to receive assistance, they were happy to pass the information
+                forward. Helping others was part of our childhood upbringing. We continue to
+                govern our lives by Proverbs 19:17, which states, “He who has pity on the poor
+                lends to the Lord, and He will pay back what he has given.” (NKJV)</p>
 
         </div>
         <div class="col-sm-6 split-padding3">
             <h2 class="headerline">Our Purpose</h2>
-            <p>Kingdom Acceleration Ministries purpose is to provide education by giving lectures, leadership classes in libraries, and other public venues, as well as, utilizing social media channels to provide classes, lectures, facts, statistics, and other informational efforts and solutions to eradicate social issues in community and region, and to distribute the personal need of hygiene line of products, household cleaning materials, and clothing to those in need.</p>
-            <p>“Your kingdom come Your will be done on earth as it is in heaven.”
-                Matthew 6:10 (NKJV)
+            <p>Kingdom Acceleration Ministries purpose is to provide education by giving lectures,
+                leadership classes in libraries, and other public venues, as well as, utilizing social
+                media channels to provide classes, lectures, facts, statistics, and other
+                informational efforts and solutions to eradicate social issues in community and
+                region, and to distribute the personal need of hygiene line of products, household
+                cleaning materials, and clothing to those in need.</p>
+            <p>“Your kingdom come Your will be done on earth as it is in heaven.” Matthew 6:10
+                (NKJV)
             </p>
         </div>
     </div>
@@ -343,7 +357,12 @@
         <h2 class="headerline">Our Vision</h2>
         <br>
         <div class="col-lg-12 col-md-12 col-sm-12">
-            <p>To improve the welfare of our nation and abroad that are in physical and social need.  Our giving is to take on real and tangible forms as we reach out to individuals, churches, ministries, and community centers.  We believe that meeting the need and preserving human dignity will make a significant impact on the nation set a powerful example for the leader of tomorrow, the future generation.</p>
+            <p>To improve the welfare of our nation and abroad that are in physical and social
+                need. Our giving is to take on real and tangible forms as we reach out to
+                individuals, churches, ministries, and community centers. We believe that meeting
+
+                the need and preserving human dignity will make a significant impact on the nation
+                and set a powerful example for the leaders of tomorrow; the future generation.</p>
         </div>
     </div>
 
