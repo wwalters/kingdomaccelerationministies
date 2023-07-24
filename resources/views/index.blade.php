@@ -160,10 +160,10 @@
                 <a href="storage/Houston2023.webp"><h3>Love & Unity Central Southwest</h3></a>
             </div>
             <div class="col-xs-4 text-center">
-
+                <a href="storage/Convergence.webp"><h3>Love & Unity Convergence</h3></a>
             </div>
             <div class="col-xs-4 text-center">
-                <a href="storage/Convergence.webp"><h3>Love & Unity Convergence</h3></a>
+                <a href="storage/Watchdog.png"><h3>Watchdog Prayer Conference</h3></a>
             </div>
         </div>
         <div class="row">
@@ -171,10 +171,10 @@
                 <p>February 9th - 11th, 2023</p>
             </div>
             <div class="col-xs-4 text-center">
-
+                <p>March 23rd - 25th, 2023</p>
             </div>
             <div class="col-xs-4 text-center">
-                <p>March 23rd - 25th, 2023</p>
+                <p>July 28th - 30th, 2023</p>
             </div>
         </div>
     </div>
