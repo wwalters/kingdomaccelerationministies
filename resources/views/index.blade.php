@@ -134,29 +134,6 @@
         </div>
         <div class="row">
             <div class="col-xs-4 text-center">
-                <a href="storage/flyer.pdf"><h3>Grow Empowerment Lounge</h3></a>
-            </div>
-            <div class="col-xs-4 text-center">
-                <a href="storage/flyer3.pdf"><h3>Power Driven Prayer</h3></a>
-            </div>
-            <div class="col-xs-4 text-center">
-                <a href="storage/flyer5.pdf"><h3>Restoring the Alter</h3></a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-4 text-center">
-                <p>March 19th, 2020</p>
-            </div>
-            <div class="col-xs-4 text-center">
-                <p>January 15th 2021 </p>
-            </div>
-            <div class="col-xs-4 text-center">
-                <p>October 29th, 2021</p>
-            </div>
-        </div>
-        <hr>
-        <div class="row">
-            <div class="col-xs-4 text-center">
                 <a href="storage/Houston2023.webp"><h3>Love & Unity Central Southwest</h3></a>
             </div>
             <div class="col-xs-4 text-center">
@@ -175,6 +152,29 @@
             </div>
             <div class="col-xs-4 text-center">
                 <p>July 28th - 30th, 2023</p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-xs-4 text-center">
+                <a href="storage/canadaconvergence.webp"><h3>Canada Convergence</h3></a>
+            </div>
+            <div class="col-xs-4 text-center">
+                {{--<a href=""><h3></h3></a>--}}
+            </div>
+            <div class="col-xs-4 text-center">
+                <a href="storage/kingdomconvergence.webp"><h3>Kingdom Convergence</h3></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-4 text-center">
+                <p>September 29th - 30th, 2023</p>
+            </div>
+            <div class="col-xs-4 text-center">
+                {{--<p>January 15th 2021 </p>--}}
+            </div>
+            <div class="col-xs-4 text-center">
+                <p>October 27th - 28th, 2023</p>
             </div>
         </div>
     </div>
