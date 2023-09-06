@@ -160,10 +160,10 @@
                 <a href="storage/canadaconvergence.webp"><h3>Canada Convergence</h3></a>
             </div>
             <div class="col-xs-4 text-center">
-                {{--<a href=""><h3></h3></a>--}}
+                <a href="storage/kingdomconvergence.webp"><h3>Kingdom Convergence</h3></a>
             </div>
             <div class="col-xs-4 text-center">
-                <a href="storage/kingdomconvergence.webp"><h3>Kingdom Convergence</h3></a>
+                <a href="storage/OKconvergence.webp"><h3>Oklahoma Convergence</h3></a>
             </div>
         </div>
         <div class="row">
@@ -171,10 +171,10 @@
                 <p>September 29th - 30th, 2023</p>
             </div>
             <div class="col-xs-4 text-center">
-                {{--<p>January 15th 2021 </p>--}}
+                <p>October 27th - 28th, 2023</p>
             </div>
             <div class="col-xs-4 text-center">
-                <p>October 27th - 28th, 2023</p>
+                <p>November 30th - December 2nd, 2023</p>
             </div>
         </div>
     </div>
